@@ -1,4 +1,4 @@
-#PHP for beginners - Edwin Diaz - Udemy course
+# PHP for beginners - Edwin Diaz - Udemy course
 
 This is a project from this course
 
